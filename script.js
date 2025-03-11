@@ -1,7 +1,7 @@
 // URL to get data 
 // https://api.openweathermap.org/data/2.5/weather?q=london&units=metric&appid=ded712e593ac8930da4bec1dde2db2de
   let weather = {
-    "apiKey":"ded712e593ac8930da4bec1dde2db2de",
+    "apiKey":"ab68c08423e9efafd7eddad3d4842826",
     fetchWeather: function (name ){
         fetch(
           "https://api.openweathermap.org/data/2.5/weather?q=" +
